@@ -13,4 +13,3 @@ int main(){
         putchar('\n');
     }
 }
-
